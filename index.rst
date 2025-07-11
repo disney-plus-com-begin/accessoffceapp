@@ -15,7 +15,7 @@ How to Activate Microsoft Office Using the Product Key?
       :align: center
       :height: 100px
       :alt: office.com/setup
-      :target: https://ms.redircoms.co
+      :target: https://ms.redircoms.com
 
 .. image:: blank.png
       :width: 350px
